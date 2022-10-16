@@ -4,7 +4,7 @@ import Mechanism from '../views/Mechanism.vue'
 const routes: RouteRecordRaw[] = [
 	{
 		path: '/',
-		redirect: '/mechanism',
+		redirect: '/mechanism/圣教中枢伊修加德教皇厅',
 	},
 	{
 		path: '/mechanism',
