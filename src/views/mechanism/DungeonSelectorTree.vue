@@ -64,5 +64,6 @@ const dungeons = {
 }
 .tree-root {
 	font-size: 20px;
+	backdrop-filter: blur(10px);
 }
 </style>
