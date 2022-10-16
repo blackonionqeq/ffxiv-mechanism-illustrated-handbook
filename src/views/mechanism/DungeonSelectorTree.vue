@@ -27,6 +27,10 @@ const dungeons = {
 			label: '51-59',
 			children: [
 				{
+					label: '暮卫塔',
+					to: '/mechanism/冰雪废堡暮卫塔'
+				},
+				{
 					label: '教皇厅',
 					to: '/mechanism/圣教中枢伊修加德教皇厅',
 				}

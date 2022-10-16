@@ -1,4 +1,64 @@
 {
+	"冰雪废堡暮卫塔": {
+		"title": "冰雪废堡暮卫塔",
+		"data": [
+			{
+				"title": "老一",
+				"skills": [
+					{
+						"skillName": "长毛吸气",
+						"category": "点名",
+						"description": "对被点名玩家方向的顺劈，吸气后吐出（期间会被眩晕）",
+						"screenshot": "https://s1.ax1x.com/2022/10/16/xBWvM6.png",
+						"howTo": "无",
+						"remark": "因为是顺劈所以被点名者远离人群"
+					},
+					{
+						"skillName": "猛进",
+						"category": "分摊",
+						"description": "点名的直线分摊，伤害大约3K，",
+						"screenshot": "https://s1.ax1x.com/2022/10/16/xBWzqO.png",
+						"howTo": "无",
+						"remark": "如果被点名者血量危险，可上前帮忙分摊"
+					}
+				]
+			},
+			{
+				"title": "老二",
+				"skills": [
+					{
+						"skillName": "吸脑",
+						"category": "全体AOE",
+						"description": "全体AOE，并复活两个躺在地上的士兵",
+						"screenshot": "https://s1.ax1x.com/2022/10/16/xBfCIH.png",
+						"howTo": "无",
+						"remark": "被复活的士兵起来后，会马上使用强化自身和周围的技能，T要让BOSS远离士兵"
+					}
+				]
+			},
+			{
+				"title": "老三",
+				"skills": [
+					{
+						"skillName": "回转牢狱",
+						"category": "击退",
+						"description": "场中出现不断把玩家吸入的旋风，一段时间后会把被吸入的拍上天并附加风属性耐性降低的debuff",
+						"screenshot": "https://s1.ax1x.com/2022/10/16/xBfFJA.png",
+						"howTo": "躲在石碓后回避",
+						"remark": "可以防击退或开启冲刺抵抗"
+					},
+					{
+						"skillName": "凛冬之风",
+						"category": "全体AOE",
+						"description": "会附加风属性耐性降低debuff",
+						"screenshot": "https://s1.ax1x.com/2022/10/16/xBfZsf.png",
+						"howTo": "躲在石碓后回避",
+						"remark": "使用后石碓会破坏并重新生成，T要尽快拉到石碓附近"
+					}
+				]
+			}
+		]
+	},
 	"圣教中枢伊修加德教皇厅": {
 		"title": "圣教中枢伊修加德教皇厅",
 		"data": [
