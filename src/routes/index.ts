@@ -17,6 +17,6 @@ const routes: RouteRecordRaw[] = [
 ]
 
 export default createRouter({
-	history: createWebHistory(),
+	history: createWebHistory('/ffxiv-mechanism-illustrated-handbook/'),
 	routes,
 })
