@@ -35,6 +35,10 @@ const dungeons = {
 					to: '/mechanism/天山绝顶索姆阿尔灵峰'
 				},
 				{
+					label: '邪龙王座',
+					to: '/mechanism/邪龙王座龙巢神殿'
+				},
+				{
 					label: '教皇厅',
 					to: '/mechanism/圣教中枢伊修加德教皇厅',
 				}

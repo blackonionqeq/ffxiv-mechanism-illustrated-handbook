@@ -127,6 +127,90 @@
 			}
 		]
 	},
+	"邪龙王座龙巢神殿": {
+		"title": "邪龙王座龙巢神殿",
+		"data": [
+			{
+				"title": "老一",
+				"skills": [
+					{
+						"skillName": "雷云放射",
+						"category": "月环",
+						"description": "",
+						"screenshot": "https://s1.ax1x.com/2022/10/17/xDjLCt.png",
+						"howTo": "靠近回避",
+						"remark": ""
+					},
+					{
+						"skillName": "感电",
+						"category": "击退",
+						"description": "直线击退，为防止重叠，应该分散站位",
+						"screenshot": "https://s1.ax1x.com/2022/10/17/xDjzDg.png",
+						"howTo": "无",
+						"remark": "感电后会接雷云放射，记得靠近"
+					},
+					{
+						"skillName": "蓄电乘雷",
+						"category": "组合技",
+						"description": "点名三人不断出现圆形AOE，同时连线剩余一人，一段时间后对连线对象使用高伤害技能+麻痹（不可驱散）",
+						"screenshot": "https://s1.ax1x.com/2022/10/17/xDvFCq.png",
+						"howTo": "被连线的人尽快跑去边上把连线传给石柱",
+						"remark": ""
+					}
+				]
+			},
+			{
+				"title": "老二",
+				"skills": [
+					{
+						"skillName": "堕罪",
+						"category": "点名AOE",
+						"description": "点名处生成一团毒气，玩家靠近会爆炸+中毒，且每存在一个毒气BOSS就能获得一层增伤buff",
+						"screenshot": "https://s1.ax1x.com/2022/10/17/xDverF.png",
+						"howTo": "走位回避",
+						"remark": "还会出现芥末弹怪，会吸收毒气，吸收四个时会使用自爆，一般在其吸收两三个毒气时打掉"
+					},
+					{
+						"skillName": "病弱",
+						"category": "无读条点名",
+						"description": "病弱状态下移动速度减半且收到的治疗量降低",
+						"screenshot": "https://s1.ax1x.com/2022/10/17/xDvuVJ.png",
+						"howTo": "无",
+						"remark": "病弱可被驱散"
+					}
+				]
+			},
+			{
+				"title": "老三",
+				"skills": [
+					{
+						"skillName": "真红之珠",
+						"category": "组合技",
+						"description": "首先是点名的圆形AOE火球，一段时间后火球会对玩家发动直线攻击",
+						"screenshot": "https://s1.ax1x.com/2022/10/17/xDvKa9.png",
+						"howTo": "AOE和直线AOE都是走位回避",
+						"remark": "注意别让直线攻击打到NPC"
+					},
+					{
+						"skillName": "漆黑之珠",
+						"category": "束缚",
+						"description": "漆黑之珠对点名对象束缚，一段时间后让对象即死",
+						"screenshot": "https://s1.ax1x.com/2022/10/17/xDvM5R.png",
+						"howTo": "除了T之外的玩家转火打掉漆黑之珠，T顶多用远程技能打一打，但别靠近，避免因为靠近导致BOSS的顺劈打到队友",
+						"remark": ""
+					},
+					{
+						"skillName": "屠戮",
+						"category": "即死攻击",
+						"description": "技能范围是除了NPC所在的圆形外的全场",
+						"screenshot": "https://s1.ax1x.com/2022/10/17/xDkuvR.png",
+						"howTo": "在读条期间进入NPC张开的护罩里即可",
+						"remark": ""
+					}
+				]
+			}
+		]
+	},
 	"圣教中枢伊修加德教皇厅": {
 		"title": "圣教中枢伊修加德教皇厅",
 		"data": [
