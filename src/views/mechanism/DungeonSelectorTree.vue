@@ -31,6 +31,10 @@ const dungeons = {
 					to: '/mechanism/冰雪废堡暮卫塔'
 				},
 				{
+					label: '天山灵峰',
+					to: '/mechanism/天山绝顶索姆阿尔灵峰'
+				},
+				{
 					label: '教皇厅',
 					to: '/mechanism/圣教中枢伊修加德教皇厅',
 				}

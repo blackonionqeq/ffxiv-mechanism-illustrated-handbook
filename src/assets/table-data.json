@@ -59,6 +59,74 @@
 			}
 		]
 	},
+	"天山绝顶索姆阿尔灵峰": {
+		"title": "天山绝顶索姆阿尔灵峰",
+		"data": [
+			{
+				"title": "老一",
+				"skills": [
+					{
+						"skillName": "狼吞虎咽",
+						"category": "顺劈",
+						"description": "点名后扇形吸引，附带短时间眩晕",
+						"screenshot": "https://s1.ax1x.com/2022/10/17/xDiYdO.png",
+						"howTo": "无",
+						"remark": "被点名者远离人群，避免扇形攻击波及队友"
+					},
+					{
+						"skillName": "吐出",
+						"category": "AOE",
+						"description": "狼吞虎咽吃到东西（包括蜜蜂和玩家）后，会用吐出（以BOSS为中心的圆形AOE）",
+						"screenshot": "https://s1.ax1x.com/2022/10/17/xDi1Q1.png",
+						"howTo": "走位回避",
+						"remark": ""
+					}
+				]
+			},
+			{
+				"title": "老二",
+				"skills": [
+					{
+						"skillName": "原始嚎叫",
+						"category": "全体AOE",
+						"description": "全体AOE，使用后会生成史莱姆。第一使用生成两只红色和两只蓝色；第二次生成会生成一个巨大的绿色史莱姆，当BOSS的HP还有比较多时转火击杀绿色史莱姆，它会使用读条高伤害全体AOE",
+						"screenshot": "https://s1.ax1x.com/2022/10/17/xDkpgs.png",
+						"howTo": "无",
+						"remark": ""
+					},
+					{
+						"skillName": "疯狂泼溅",
+						"category": "点名",
+						"description": "红点名时是分摊攻击，需要集合分摊；蓝点名时是AOE，要远离人群",
+						"screenshot": "https://s1.ax1x.com/2022/10/17/xDkFbV.png",
+						"howTo": "无",
+						"remark": ""
+					}
+				]
+			},
+			{
+				"title": "老三",
+				"skills": [
+					{
+						"skillName": "彗星",
+						"category": "距离衰减AOE",
+						"description": "绿点名，点名消失后对点名最后在的地方读条距离衰减AOE",
+						"screenshot": "https://s1.ax1x.com/2022/10/16/xBfFJA.png",
+						"howTo": "被点名者先去场边，等点名标记消失再远离",
+						"remark": "T最好往远离彗星落点的地方走"
+					},
+					{
+						"skillName": "混沌爆破",
+						"category": "组合技",
+						"description": "点名的圆形AOE+多条直线AOE",
+						"screenshot": "https://s1.ax1x.com/2022/10/17/xDkuvR.png",
+						"howTo": "走位回避",
+						"remark": ""
+					}
+				]
+			}
+		]
+	},
 	"圣教中枢伊修加德教皇厅": {
 		"title": "圣教中枢伊修加德教皇厅",
 		"data": [
