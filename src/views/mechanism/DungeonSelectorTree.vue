@@ -48,9 +48,13 @@ const dungeons = {
 			label: '61-69',
 			children: [
 				{
+					label: '紫水宫',
+					to: '/mechanism/海底宫殿紫水宫',
+				},
+				{
 					label: '白山堡',
 					to: '/mechanism/巨炮要塞帝国白山堡',
-				}
+				},
 			],
 		},
 	]

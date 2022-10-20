@@ -299,6 +299,89 @@
 			}
 		]
 	},
+	"海底宫殿紫水宫": {
+		"title": "海底宫殿紫水宫",
+		"data": [
+			{
+				"title": "老一",
+				"skills": [
+					{
+						"skillName": "粘液球",
+						"category": "点名",
+						"description": "对点名玩家附加拘束状态",
+						"screenshot": "https://s1.ax1x.com/2022/10/20/x68Omt.png",
+						"howTo": "无",
+						"remark": "后接碎壳重击"
+					},
+					{
+						"skillName": "碎壳重击",
+						"category": "死刑",
+						"description": "对拘束玩家读条使用大伤害技能",
+						"screenshot": "https://s1.ax1x.com/2022/10/20/x6GiXn.png",
+						"howTo": "此时BOSS脚部可被选中，集火脚部，在读条前击破，BOSS会四脚朝天约十五秒切附加受伤加重",
+						"remark": ""
+					},
+					{
+						"skillName": "切发龙虾",
+						"category": "增援",
+						"description": "召唤一只切发龙虾，会对三人蓝点名，使用水毒圈AOE",
+						"screenshot": "https://s1.ax1x.com/2022/10/20/x6Gkmq.png",
+						"howTo": "三人分散站位且集火龙虾",
+						"remark": ""
+					}
+				]
+			},
+			{
+				"title": "老二",
+				"skills": [
+					{
+						"skillName": "诱惑",
+						"category": "组合技",
+						"description": "读条后，玩家附加魅惑状态，不受控制地往BOSS走，此时BOSS会读条暴风踢，是个大范围圆形AOE",
+						"screenshot": "https://s1.ax1x.com/2022/10/20/x6GK1J.png",
+						"howTo": "读条魅惑时，触碰场地四周的盒子，会变成老者，老者状态能去掉诱惑的debuff，但注意此时不能使用技能，所以触碰盒子要看准时机",
+						"remark": ""
+					},
+					{
+						"skillName": "海底火山",
+						"category": "追踪AOE",
+						"description": "点名两人，读条后进行多段追踪型AOE，大概10次，需要被点名的人不断跑动回避",
+						"screenshot": "https://s1.ax1x.com/2022/10/20/x6GYtO.png",
+						"howTo": "不断走位回避",
+						"remark": "注意别炸到队友，可以规划一下路线"
+					}
+				]
+			},
+			{
+				"title": "老三",
+				"skills": [
+					{
+						"skillName": "浓雾",
+						"category": "全体AOE",
+						"description": "全体AOE，然后玩家全体会附加三层水毒，此时会出现三个水泡，每打掉一个，水毒会减少一层",
+						"screenshot": "https://s1.ax1x.com/2022/10/20/x6GDBt.png",
+						"howTo": "尽快打掉水泡"
+					},
+					{
+						"skillName": "黑潮",
+						"category": "跟踪AOE",
+						"description": "浓雾后，BOSS会沉下水面（此时可通过图示的水纹识别），跟踪玩家一段时间后钻出水面使用大范围AOE",
+						"screenshot": "https://s1.ax1x.com/2022/10/20/x6GIH0.png",
+						"howTo": "打完水泡后，远离水纹的前进方向即可",
+						"remark": "需要远离得比较远，因为AOE范围比较大"
+					},
+					{
+						"skillName": "疯狂视线",
+						"category": "背对",
+						"description": "读条技能，使用后如果没有背对BOSS，人物会陷入恐慌状态，不受控制地到处移动",
+						"screenshot": "https://s1.ax1x.com/2022/10/20/x6GTEV.png",
+						"howTo": "背对回避",
+						"remark": ""
+					}
+				]
+			}
+		]
+	},
 	"巨炮要塞帝国白山堡": {
 		"title": "巨炮要塞帝国白山堡",
 		"data": [
