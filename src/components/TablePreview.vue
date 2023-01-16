@@ -23,7 +23,7 @@
 				<td class="category">{{ column.category }}</td>
 				<td class="description">{{ column.description }}</td>
 				<td class="screenshot flex-center">
-					<ImageViewerVue v-if="column.screenshot" width="200" :src="column.screenshot" :alt="column.screenshot" :key="column.screenshot"></ImageViewerVue>
+					<ImageViewerVue v-if="column.screenshot" width="200" :src="base+column.screenshot" :alt="base+column.screenshot" :key="base+column.screenshot"></ImageViewerVue>
 					<div v-else>无</div>	
 				</td>
 				<!-- <td>{{ column.schematic }}</td> -->
@@ -37,6 +37,7 @@
 <script lang="ts" setup>
 import type { MechanismTableItem } from '../types/mechanism-table'
 import ImageViewerVue from '../components/ImageViewer.vue';
+const base = import.meta.env.PROD ? import.meta.env.BASE_URL : ''
 defineProps({
 	title: {
 		type: String,
