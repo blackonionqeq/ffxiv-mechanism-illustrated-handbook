@@ -57,6 +57,15 @@ const dungeons = {
 				},
 			],
 		},
+		{
+			label: '71-79',
+			children: [
+				{
+					label: '奇坦那',
+					to: '/mechanism/文明古迹奇坦那神影洞',
+				},
+			],
+		},
 	]
 }
 

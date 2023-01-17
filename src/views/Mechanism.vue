@@ -18,11 +18,12 @@
 
 <script lang="ts" setup>
 import TablePreviewVue from '../components/TablePreview.vue';
-import tableDataJson from '../assets/table-data.json'
+import tableDataJson from '../assets/table-data/index'
 import { computed, watch } from 'vue';
 import { useRoute } from 'vue-router';
 import DungeonSelectorTree from './mechanism/DungeonSelectorTree.vue'
 
+console.log(tableDataJson)
 const route = useRoute()
 const mid = computed(() => route.params.mid as keyof typeof tableDataJson)
 const tableData = computed(() => tableDataJson[mid.value])
