@@ -17,6 +17,8 @@ export default {
 						"skillName": "赤热化",
 						"category": "AOE准备动作",
 						"description": "左手或右手发红，为后续机制做准备",
+						"howTo": "",
+						"remark": ""
 					},
 					{
 						"skillName": "洛查特尔的愤怒",

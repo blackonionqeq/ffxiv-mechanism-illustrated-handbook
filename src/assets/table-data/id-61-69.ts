@@ -1,4 +1,70 @@
 export default {
+	"漂流海域妖歌海": {
+		"title": "漂流海域妖歌海",
+		"data": [
+			{
+				"title": "老一",
+				"skills": [
+					{
+						"skillName": "莫名击掌",
+						"category": "AOE",
+						"description": "180度半场AOE",
+						"screenshot": "/imgs/61-69/61-1-莫名击掌.png",
+						"howTo": "走位回避",
+						"remark": "注意别离boss太远，否则用这招时可能来不及躲"
+					},
+				]
+			},
+			{
+				"title": "老二",
+				"skills": [
+					{
+						"skillName": "暗影流",
+						"category": "不规则AOE",
+						"description": "场地出现大范围黑色区域，踩到会附加受伤加重状态",
+						"screenshot": "/imgs/61-69/61-2-暗影流.png",
+						"howTo": "走位躲避",
+						"remark": ""
+					},
+					{
+						"skillName": "入夜",
+						"category": "点名连线",
+						"description": "点名非T玩家连线",
+						"howTo": "被点名者尽快远离boss扯断连线，否则会持续掉血并叠加受伤加重",
+						"remark": ""
+					},
+					{
+						"skillName": "暗影分裂",
+						"category": "不规则AOE",
+						"description": "出现分身，他们会走位，会进一步缩小接下来的暗影流的躲避范围",
+						"screenshot": "/imgs/61-69/61-2-暗影分裂.png",
+						"howTo": "走位躲避",
+						"remark": ""
+					},
+				]
+			},
+			{
+				"title": "老三",
+				"skills": [
+					{
+						"skillName": "少女之泪",
+						"category": "AOE",
+						"description": "场地出现多个圆形陷阱，踩进去会持续掉血",
+						"screenshot": "/imgs/61-69/61-3-少女之泪.png",
+						"howTo": "走位回避"
+					},
+					{
+						"skillName": "死亡行进",
+						"category": "强制走位",
+						"description": "根据命令死亡前进前和死亡前进后，强制所有角色往前或后行进大约1/3个长度的长度",
+						"screenshot": "/imgs/61-69/61-3-死亡行进.png",
+						"howTo": "在boss读条时，走到强制行进后不会踩入少女之泪陷阱的地方",
+						"remark": ""
+					},
+				]
+			}
+		]
+	},
 	"海底宫殿紫水宫": {
 		"title": "海底宫殿紫水宫",
 		"data": [

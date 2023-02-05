@@ -48,6 +48,10 @@ const dungeons = {
 			label: '61-69',
 			children: [
 				{
+					label: '妖歌海',
+					to: '/mechanism/漂流海域妖歌海',
+				},
+				{
 					label: '紫水宫',
 					to: '/mechanism/海底宫殿紫水宫',
 				},
